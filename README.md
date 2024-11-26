@@ -1,4 +1,4 @@
-#Detecting, Localizing, and Tracking Vehicle
+# Detecting, Localizing, and Tracking Vehicle
 The goal of this project is to implement a complete pipeline to detect, localize,and track vehicles.  
 The pipeline will consist of a number of steps:  (1) a datasetsetup  (2)  a  classifier ,  (3)  a  detector  and  localizer, and (4) an object tracker.  
 A partial training and validation set sourced from the KITTI vision benchmark: https://www.cvlibs.net/datasets/kitti/
